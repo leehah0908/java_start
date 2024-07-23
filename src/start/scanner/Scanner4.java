@@ -1,6 +1,5 @@
-package scanner;
+package start.scanner;
 
-import java.util.Objects;
 import java.util.Scanner;
 
 public class Scanner4 {
